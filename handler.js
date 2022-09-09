@@ -6,11 +6,11 @@ import { unwatchFile, watchFile } from 'fs'
 import chalk from 'chalk'
 
 //Prems
-global.prems = ['6282151652728','6285714216711','6285640417385','6282187352115','6285803583481','6288215689772','6285651062576'] // Premium user has unlimited limit
+global.prems = ['6285772762034','6285772762034','6285772762034','6285772762034','6285772762034','6285772762034','6285772762034'] // Premium user has unlimited limit
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = 'Chikabotz'
+global.author = 'Human'
 
 //apikey
 global.api = '1431kalakuan5195'	// https://api.lolhuman.xyz/docs 1431kalakuan5195
