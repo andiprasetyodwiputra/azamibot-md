@@ -9,7 +9,7 @@ global.owner = [
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-//global.prems = ['628233725566','6285782540704'] // Premium user has unlimited limit
+//global.prems = ['6285772762034','6285772762034'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com',
@@ -32,8 +32,8 @@ global.APIKeys = { // APIKey Here
 }
 
 /*// Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = 'Chikabotz'
+global.author = 'Human'
 
 //apikey
 global.api = 'bukanitucuy14315195'
